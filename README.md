@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilufa Yesmin</h1>
+<h3 align="left">Hi there 👋, I'm Nilufa Yesmin</h3>
 <h3 align="left">👑 I am Web Developer </h3>
 
 - 🔭 I’m currently working on **responsive website**
